@@ -1,4 +1,5 @@
 # This Lesson is About How To Write a README.md file  
+Learn how to create professional README.md files with Markdown, Git, GitHub, code blocks, images, and documentation best practices.
 ---
 ## Overview  
 - Create a Directory/Folder  
