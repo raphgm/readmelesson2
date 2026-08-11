@@ -314,6 +314,14 @@ For example:
 - `[Git Status]` is the alternative text
 - `(images/git-status.png)` is the path to the image
 
+### Example Images
+
+![Git status terminal output](images/git-status.png)
+
+![Git staging area terminal output](images/staging-area.png)
+
+![Git commit terminal output](images/git-commit.png)
+
 ---
 
 ## 16. Organise Your Project
